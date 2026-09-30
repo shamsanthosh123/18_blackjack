@@ -96,3 +96,8 @@ Submission is only the following three things:
 
 ### After Changes
 [▶ Watch After Changes](after-changes--.mp4)
+
+
+## Project Conversation
+
+[View the ChatGPT conversation used during the development of this project](https://chatgpt.com/share/6abccf31-c6bc-83ee-86dd-253737f46e49)
